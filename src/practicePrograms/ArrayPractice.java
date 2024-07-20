@@ -1,4 +1,4 @@
-package JavaPractice;
+package practicePrograms;
 
 public class ArrayPractice {
 

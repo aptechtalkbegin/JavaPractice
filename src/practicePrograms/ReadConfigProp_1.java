@@ -1,4 +1,4 @@
-package JavaPractice;
+package practicePrograms;
 
 import java.io.FileInputStream;
 import java.io.IOException;

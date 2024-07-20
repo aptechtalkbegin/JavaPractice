@@ -1,2 +1,3 @@
 Jai Shree Ganesh
 This is my code for writing into a text file
+New line appendedNew line appendedNew line appended

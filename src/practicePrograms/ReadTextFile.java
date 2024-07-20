@@ -1,4 +1,4 @@
-package JavaPractice;
+package practicePrograms;
 
 import java.io.BufferedReader;
 import java.io.File;
